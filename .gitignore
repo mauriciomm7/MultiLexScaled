@@ -1,0 +1,8 @@
+# Ignore Python compiled files
+*.pyc
+/Corpora
+.ipynb_checkpoints
+
+
+#NB used for testing purposes
+testing.ipynb
