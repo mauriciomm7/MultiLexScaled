@@ -1,6 +1,6 @@
 # Ignore Python compiled files
 *.pyc
-/Corpora
+Corpora/
 .ipynb_checkpoints
 
 
